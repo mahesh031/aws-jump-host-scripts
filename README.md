@@ -14,6 +14,8 @@ way would be desirable.
 
 Hence, come up with the script which does this for us. 
 
+Note: Script fetches SSH user id from the git account.
+
 Pre-requisites:
 ---------------
 AWS Profile with valid access and secret key created under "./aws/credentials" file.</br>
