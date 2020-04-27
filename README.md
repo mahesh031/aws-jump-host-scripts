@@ -21,7 +21,7 @@ SSH public key on the Jump host and private EC2 instance.</br>
 
 Usage:
 --------------
-./jump-host.sh "profile-name" "ec2-public-instance-tag-value" "ec2-private-instance-tag-value" "aws-gerion" "command" </br>
+./jump-host.sh "profile-name" "ec2-public-instance-tag-value" "ec2-private-instance-tag-value" "aws-region" "command" </br>
 
 Parameters:
 --------------
