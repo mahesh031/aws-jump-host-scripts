@@ -3,10 +3,10 @@ Scripts provide easy way getting access to provate EC2 instances behind Jump hos
 
 Purpose
 --------------
-Most of the deployments on AWS includes public and private subnets. 
+Most of the deployments on AWS includes public and private subnets. </br>
 On public subnets, jump host server will be running
-in the form of EC2 instance and are publicly accessible using pre-built trust mechanisms such as by using SSH key pairs.
-On private subnets, all the services will be inside the doecker containers on EC2 instance.
+in the form of EC2 instance and are publicly accessible using pre-built trust mechanisms such as by using SSH key pairs. </br>
+On private subnets, all the services will be inside the doecker containers on EC2 instance.</br>
 
 While troubleshooting the issue, most of the times, one has to get into this machines and run few commands to check if the
 containers are up or check the docker logs. Since this is mundane task, having the script which does this in an automated
