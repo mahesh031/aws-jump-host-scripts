@@ -10,7 +10,7 @@ On private subnets, all the services will be running inside the docker container
 
 While troubleshooting the issue, most of the times, one has to get into this machines and run few commands to check if the
 containers are up or check the docker logs. Since this is mundane task, having the script which does this in an automated
-way using the script would be desirable.
+way would be desirable.
 
 Hence, come up with the script which does this for us. 
 
